@@ -1,0 +1,29 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+*.log.gz
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.idea
+.classpath
+.name
+*.iml
+target/
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.tar.gz
+*.rar
+
+/B4C40100.jasper
+/B4E30101.jasper
+/netAccount_page1.jasper
+/netAccount_page2.jasper
